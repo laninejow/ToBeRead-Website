@@ -7,10 +7,10 @@ body {
 	font-size: 14px;
 }
 a {
-	color:#5f0099;
+	color:#000000;
 }
 a:hover {
-	color:#5f0099;
+	color:#000000;
 }
 h1, h2, h3 {
 	font-weight: 700;
@@ -55,7 +55,7 @@ h6 {
 	font-size: 13px;
 }
 .navbar .nav-item a:hover {
-	color: #5f0099;
+	color: #000000;
 }
 .navbar .nav-link {
 	position: relative;
@@ -498,7 +498,7 @@ input {
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
 	overflow: auto;
-	background:  rgb(213, 198, 221);
+	background:  #d5c6dd;
 	color: #fff !important;
 	text-align: center;
 	padding: 10px 0;
