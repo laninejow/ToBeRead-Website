@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server:  ftp.janinelow.ca
-        username:  gh-deploy@toberead.janinelow.ca
+        username:  tbr-deploy@toberead.janinelow.ca
         password: ${{ secrets.FTP_PASSWORD_TOBEREAD}}
